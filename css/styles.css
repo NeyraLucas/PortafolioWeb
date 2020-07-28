@@ -1,0 +1,90 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.fondoL{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    background-image: url(../img/fondo.jpg);
+   
+}
+
+.colorNav{
+	background-color: #0F1319 !important;
+
+}
+
+.colorCard{
+  background-color: #1B222D !important;
+}
+
+.colorLinks{
+  background-color:  #1abc9c !important;
+}
+
+.colorParrafo{
+  color:   #1abc9c !important;
+}
+
+body{
+
+	background-color: #0F1319;
+}
+
+.negrita{
+
+	font-weight: bold;
+}
+
+.fondoLinux{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  
+}
+
+
+.whatsapp {
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:40px;
+  right:40px;
+  background-color:#25d366;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  z-index:100;
+}
+
+.whatsapp-icon {
+  margin-top:13px;
+}
+
+.cardsF{
+  
+  
+  padding: 25px;
+
+
+}
+
+.cardsImg{
+  width: 100%;
+  height: 200px;
+}
+
+.cardsImg:hover{
+  border: 5px solid #1B222D;
+}
+
+.styleGaleria:hover{
+   border: 5px solid #1B222D;
+}
+
+.styleGaleriaCard:hover{
+   border: 5px solid #0F1319;
+}
